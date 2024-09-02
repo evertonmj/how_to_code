@@ -2,7 +2,7 @@ package br.com.everdev.linkedlist;
 
 public class LinkedListTestDesafio {
     public static void main(String[] args) {
-        LinkedListSolucao<String> nomes = new LinkedListSolucao<>();
+        LinkedListDesafio<String> nomes = new LinkedListDesafio<>();
         nomes.adicionarNodeInicial("Everton");
         nomes.adicionarElemento("Joao");
         nomes.adicionarElemento("Maria");
